@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:24.154018
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 阿迦陀密一印千類千轉三使者成就經法
 #+PROPERTY: CBETA_ID X02n0190
 #+PROPERTY: ID KR6j0331
